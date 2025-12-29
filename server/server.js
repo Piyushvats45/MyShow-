@@ -22,7 +22,7 @@ app.use(cors())
 app.use(clerkMiddleware())
 
 // API Routes
-app.get('/', (req,res) => res.send("Server is Live"));
+app.get('/', (req,res) => res.send("Only Backend is deployed"));
 app.use('/api/inngest', serve({ client: inngest, functions }))
 
 app.listen(port, ()=> {
