@@ -1,1 +1,5 @@
 MyShow, a movie ticket booking platform that allows users to browse movies, view show timings, select seats, and book tickets through an intuitive and responsive interface, providing a smooth and user-friendly booking experience.
+
+// inngest
+// clerk
+// cloudinary
